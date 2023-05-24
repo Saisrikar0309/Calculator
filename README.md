@@ -1,2 +1,2 @@
 # Calculator
-This repository is for the project of todo list using HTML,CSS,JS
+This repository is for the project of calculator using HTML,CSS
